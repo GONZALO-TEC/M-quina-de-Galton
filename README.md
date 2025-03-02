@@ -5,6 +5,10 @@ Este proyecto proporciona una comprensión visual de cómo las distribuciones bi
 Introducción
 Este proyecto simula el funcionamiento de una máquina de Galton utilizando Python. La máquina de Galton, diseñada por Francis Galton en el siglo XIX, muestra cómo una distribución binomial se aproxima a una distribución normal con una muestra lo suficientemente grande.
 
+
+
+![Figure_1](https://github.com/user-attachments/assets/9dc77156-5192-4383-aee8-4b6ddf0b20fb)
+
 Descripción del Código
 El programa se divide en dos funciones principales:
 
